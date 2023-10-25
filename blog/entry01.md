@@ -15,7 +15,7 @@ One skill that I had learned from this blog was **How to read**. When I found an
 Another skill I had learned was **organization**. When I do my research, I would make sure to delete the tabs that are unecessary on Google. I would put my notes on a Google Doc and put that tab all the way to the left side. The websites I'm researching would right next to the Google Doc tab. I would also add a resource section on my notes and paste the resources so I don't have to search the article up again. Plus, when I take notes on a different topic, I would create different sections on the Google Doc and use bullet point notes. I would also many my bullet pointed notes short and simple so my notes can be easier to read.
 
 ## Summary
-Overall
+In general, I am looking foward to learn more about technology in art and animation and make a website about this.
 
 [Next](entry02.md)
 
