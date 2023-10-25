@@ -9,6 +9,14 @@ One of the sources I have found was [How Technology Evolutions changed Animation
 ## EDP
 I am currently at the first and second stage, which is defining the main problem, and researching the problem. The main problem I have observed is **how technology in animation and art isn't really mentioned much**. The second step, which is researching gives me more information about how technology has formed art and animation. For instance, art and animation had become digital and new innovations and softweares were invented such as drawing tablets, digital pen, and drawing apps like ibis paint x, Adobe anime, etc. I may need to do more research before I move on the third step which is to brainstorm possible solutions.
 
+## Skills  
+One skill that I had learned from this blog was **How to read**. When I found an article on how technology has affected art or animation, I would read the only information that would help me answer my questions. For example, when I saw the article, [How Technology is Changing the Art World](https://www.pinotspalette.com/naperville/blog/creative-life/-pinotspalettenaperville-art-and-technology-how-technology-is-changing-the-art-world#:~:text=Digital%20art%20uses%20digital%20technology,projectors%2C%20and%20other%20digital%20platforms.), I would look at the sub-headings to find the information I need such as "digital art". Having headings and sections makes the article easier to read so I could get the information I want easily.  
+
+Another skill I had learned was **organization**. When I do my research, I would make sure to delete the tabs that are unecessary on Google. I would put my notes on a Google Doc and put that tab all the way to the left side. The websites I'm researching would right next to the Google Doc tab. I would also add a resource section on my notes and paste the resources so I don't have to search the article up again. Plus, when I take notes on a different topic, I would create different sections on the Google Doc and use bullet point notes. I would also many my bullet pointed notes short and simple so my notes can be easier to read.
+
+## Summary
+Overall
+
 [Next](entry02.md)
 
 [Home](../README.md)
