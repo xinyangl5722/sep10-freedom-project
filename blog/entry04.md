@@ -23,6 +23,24 @@ Once I typed up that code in the head, I started to copy and paste another code 
   }
   ```
   I started tinkering more examples, which is how I decided to choose Tailwind as one of my tools.
+  Later, I went over to Aframe and was fascinated by the 3d shapes I could create. So I went over to the [Aframe Guide](https://aframe.io/docs/1.5.0/introduction/) and tinkered with it. First, I copied the `script` and the whole shapes code
+  ```
+  <script src="https://aframe.io/releases/1.5.0/aframe.min.js"></script>
+  ```
+  ```
+    <a-scene>
+      <a-box position="-1 0.5 -3" rotation="0 45 0" color="#4CC3D9"></a-box>
+      <a-sphere position="0 1.25 -5" radius="1.25" color="#EF2D5E"></a-sphere>
+      <a-cylinder position="1 0.75 -3" radius="0.5" height="1.5" color="#FFC65D"></a-cylinder>
+      <a-plane position="0 0 -4" rotation="-90 0 0" width="4" height="4" color="#7BC8A4"></a-plane>
+      <a-sky color="#ECECEC"></a-sky>
+    </a-scene>
+  ```
+  Later, I started to type up my own code trying to copy the format. I did a sphere that is pretty much on the left side of the screen. The code looks a lot like this.
+  ```
+  <a-sphere position= "-2.5 1.5 -5" radius= "1.25" color="#4CC3D9"></a-sphere>
+  ```
+  [This is what the result looks like.](https://jsbin.com/laripadiju/edit?html,css,output) Once I experimented it a little bit more, I also decided to stick with Aframe as well.
 
 [Previous](entry03.md) | [Next](entry05.md)
 
