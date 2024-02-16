@@ -2,11 +2,11 @@
 ##### 2/12/2024
 
 ## Findind a Tool
-Lately, I have been finding tools for my freedom project to build a website in. First, I looked at [tailwind](https://tailwindcss.com/docs/installation/play-cdn) and tinkered with it. I followed the CDN. In the head, I typed up this code.
+Lately, I have been finding tools for my freedom project to build a website in. First, I looked at [Tailwind](https://tailwindcss.com/docs/installation/play-cdn) and tinkered with it. I followed the CDN. In the head, I typed up this code.
 ```
 <script src="https://cdn.tailwindcss.com"></script>
 ```
-Once I typed up that code in the head, I started to copy and paste another code and typed up the CSS.
+Once I typed up that code in the `head`, I started to copy and paste another code and typed up the CSS.
 ```
   <style type="text/tailwindcss">
     @layer utilities {
@@ -43,7 +43,14 @@ Once I typed up that code in the head, I started to copy and paste another code 
   [This is what the result looks like.](https://jsbin.com/laripadiju/edit?html,css,output) Once I experimented it a little bit more, I also decided to stick with Aframe as well.
 
   ## EDP
-  Honestly, I'm currently between the planning and making the prototype, but preparing to make the prototype. I found two tools to work on. I have tinkered with the two tools I have chosen by trying out the codes on an empty [jsbin](https://jsbin.com/?html,css,output).
+  Honestly, I'm currently **between** the **planning and making the prototype**, but I'm mostly preparing to make the prototype. I found two tools to work on. I have tinkered with the two tools I have chosen by trying out the codes on an empty [jsbin](https://jsbin.com/?html,css,output). Once I tinkered with the tools, I decided if the tools are right for me, which they are. I have decided the tools I will be using and I can't wait to take the next steps.
+
+  ## Skills
+  One skill I have learned is **how to learn**. I learned how to learn on my own by reading and exploring the website of the tool. Then I look at the guide in order to understand how the tool works. Once I read the guide, I tried the codes in the guides out myself.
+  Another skill I have enhanced is **organization**. I learned how to make the codes look organized and with structure. I make sure to see which type of code comes first and making sure the code line looks organized, so I don't get an error.
+
+  ## Summary
+  Overall, I am looking foward to learning how to actually use these tools and combine it to my project.
 
 [Previous](entry03.md) | [Next](entry05.md)
 
