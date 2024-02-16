@@ -42,6 +42,9 @@ Once I typed up that code in the head, I started to copy and paste another code 
   ```
   [This is what the result looks like.](https://jsbin.com/laripadiju/edit?html,css,output) Once I experimented it a little bit more, I also decided to stick with Aframe as well.
 
+  ## EDP
+  Honestly, I'm currently between the planning and making the prototype, but preparing to make the prototype. I found two tools to work on. I have tinkered with the two tools I have chosen by trying out the codes on an empty [jsbin](https://jsbin.com/?html,css,output).
+
 [Previous](entry03.md) | [Next](entry05.md)
 
 [Home](../README.md)
