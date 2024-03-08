@@ -17,6 +17,7 @@ Tool: **Tailwind and Aframe**
 * Next Steps
   * Finish [8 minute YouTube tutorial](https://www.youtube.com/watch?v=X6CsbhSVUEc)
   * Learning some new CSS codes in the video to finish the navbar
+  * Start learning Aframe
     
 
 X/X/X:
