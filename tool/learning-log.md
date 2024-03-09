@@ -20,7 +20,9 @@ Tool: **Tailwind and Aframe**
     
 
 3/9/2024:
-* Text
+* I later started to learn Aframe
+* First I did an installation
+ * 
 
 
 <!-- 
