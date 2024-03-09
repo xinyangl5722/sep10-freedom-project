@@ -16,11 +16,10 @@ Tool: **Tailwind and Aframe**
     * What happens if I make the `h-20` to `h-6`? -> The image turned smaller
 * Next Steps
   * Finish [8 minute YouTube tutorial](https://www.youtube.com/watch?v=X6CsbhSVUEc)
-  * Learning some new CSS codes in the video to finish the navbar
   * Start learning Aframe
     
 
-X/X/X:
+3/9/2024:
 * Text
 
 
