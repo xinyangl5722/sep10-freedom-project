@@ -23,7 +23,7 @@ Tool: **Tailwind and Aframe**
 * I later started to learn Aframe
 * First I did an installation from the Aframe docs
  * I copy and pasted the script in my IDE
- * Then I tried to make a cone by following the order of the other Aframe tutorial in the document.
+ * Then I tried to make a cone by following the order of the other [Aframe tutorial](https://aframe.io/docs/1.5.0/guides/building-a-basic-scene.html) in the document.
   * `<a-cone position="-0.5 1 -1" height="0.5" radius-bottom="0.25" rotation="90 45 90" color="#4CC3D9"></a-cone>` was the code I did
   * I also used the `<a-scene` element
  * I later made the Aframe in a different html page and learned how to put it together using a past freedom project example
