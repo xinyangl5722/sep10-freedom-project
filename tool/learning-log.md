@@ -21,8 +21,15 @@ Tool: **Tailwind and Aframe**
 
 3/9/2024:
 * I later started to learn Aframe
-* First I did an installation
- * 
+* First I did an installation from the Aframe docs
+ * I copy and pasted the script in my IDE
+ * Then I tried to make a cone by following the order of the other Aframe tutorial in the document.
+  * `<a-cone position="-0.5 1 -1" height="0.5" radius-bottom="0.25" rotation="90 45 90" color="#4CC3D9"></a-cone>` was the code I did
+  * I also used the `<a-scene` element
+ * I later made the Aframe in a different html page and learned how to put it together using a past freedom project example
+  * That project already has a code link so I went and see what they did
+  * I found something called an iframe and looked it up
+  * I tried it out on my html and the Aframe was now in the html
 
 
 <!-- 
