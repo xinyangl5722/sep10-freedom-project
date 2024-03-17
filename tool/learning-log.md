@@ -37,7 +37,7 @@ Tool: **Tailwind and Aframe**
 * I started to learn animation on [Aframe](https://aframe.io/docs/1.5.0/components/animation.html)
 * I started to look closely at a code that was displayed in the website and tried to understand it.
   * It was about orbiting a sphere
-  ```Aframe
+  ```html
   <a-entity rotation="0 0 0" animation="property: rotation; to: 0 360 0; loop: true; dur: 10000">
       <a-sphere position="5 0 0" color="mediumseagreen"></a-sphere>
   </a-entity>
@@ -45,6 +45,23 @@ Tool: **Tailwind and Aframe**
   * I learned that you add the property first, and then the direction of the animation. Then it is if it's a loop or not and then the speed
 * Next Step
   * Go back to learning Tailwind
+ 
+3/17/2024
+* I later started to learn about the grid system
+  * I went to a YouTube tutorial but that really didn't help me at all
+  * I later went back to the website [right here](https://tailwindcss.com/docs/grid-template-columns)
+  * So I did this code
+  ```css
+  <div class="grid-rows-1	">
+    <div class="grid grid-cols-3 text-center">
+      <div class="bg-yellow-400 m-8 w-8">01</div>
+      <div class="m-8">02</div>
+      <div class="m-8">03</div>
+    </div>
+  ```
+  * I did `grid grid-cols-3` as for three items in one row
+  * I also made them text center
+  * And now, the three divs are side-by-side
 
 <!-- 
 * Links you used today (websites, videos, etc)
