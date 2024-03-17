@@ -33,6 +33,18 @@ Tool: **Tailwind and Aframe**
  * Next Steps
    * Find out more about what I could do with Aframe
 
+3/16/2024:
+* I started to learn animation on [Aframe](https://aframe.io/docs/1.5.0/components/animation.html)
+* I started to look closely at a code that was displayed in the website and tried to understand it.
+  * It was about orbiting a sphere
+  ```Aframe
+  <a-entity rotation="0 0 0" animation="property: rotation; to: 0 360 0; loop: true; dur: 10000">
+      <a-sphere position="5 0 0" color="mediumseagreen"></a-sphere>
+  </a-entity>
+  ```
+  * I learned that you add the property first, and then the direction of the animation. Then it is if it's a loop or not and then the speed
+* Next Step
+  * Go back to learning Tailwind
 
 <!-- 
 * Links you used today (websites, videos, etc)
