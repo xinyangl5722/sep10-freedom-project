@@ -62,6 +62,19 @@ Tool: **Tailwind and Aframe**
   * I did `grid grid-cols-3` as for three items in one row
   * I also made them text center
   * And now, the three divs are side-by-side
+ 
+3/24/2024
+* I learned more components in Aframe
+  * I learned about shadows
+  * I read the [shadow component](https://aframe.io/docs/1.5.0/components/shadow.html)
+  * I created the code from the example and switched it up a bit
+  ```html
+  <a-entity light="castShadow:true;" position="1 1 1"></a-entity>
+  ```
+  * I also learned a tourus-knot. The shape looked a bit freaky.
+  ```html
+  <a-torus-knot color="#B84A39" arc="90" p="9" q="7" radius="4" radius-tubular="0.1"></a-torus-knot>
+  ```
 
 <!-- 
 * Links you used today (websites, videos, etc)
