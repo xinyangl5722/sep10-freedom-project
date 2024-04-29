@@ -5,3 +5,14 @@
 #title {
     background-image: url('cloud.jpg');
 }
+
+.col-md-6 {
+    background-color: #B9E9FC;
+    border: 1px solid black;
+}
+
+.col-md-4 {
+    background-color: #B9E9FC;
+    border: 1px solid black;
+    padding-bottom: 20px;
+}
