@@ -12,7 +12,8 @@ Tool: **Aframe**
 * Next steps= Learn components on Aframe
 
 3/3/2024:
-* Text
+* I started learning components on Aframe
+* 
 
 
 <!-- 
