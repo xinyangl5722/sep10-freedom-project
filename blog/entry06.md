@@ -1,7 +1,8 @@
 # Entry 6
-##### X/X/XX
+##### 5/2/2024
 
-Text
+## Making My Website
+I later started t
 
 [Previous](entry05.md) | [Next](entry07.md)
 
