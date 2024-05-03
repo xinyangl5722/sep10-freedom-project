@@ -13,7 +13,12 @@ Tool: **Aframe**
 
 3/3/2024:
 * I started learning components on Aframe
-* 
+  * I started by creating a cylinder
+    ```html
+    <a-cylinder position="0 1.25 -5" height="6" radius="0.5" rotation="90 45 90" color="#4CC3D9"></a-cylinder>
+    ```
+  *  I learned that the position always come first, then height, then radius, then rotaiton if necessary, and then color
+  *  
 
 
 <!-- 
