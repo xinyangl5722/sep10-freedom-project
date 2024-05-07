@@ -20,4 +20,5 @@
 
 #### Beyond MVP
 
-* Task
+* Put gradient backgrounds
+* Change some fonts
