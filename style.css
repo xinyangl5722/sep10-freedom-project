@@ -62,3 +62,8 @@ iframe {
 #tal {
     width: 300px;
 }
+
+
+#grad {
+    background-image: linear-gradient(#B0DAFF, #CAEDFF, #B0DAFF);
+}
