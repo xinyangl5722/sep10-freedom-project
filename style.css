@@ -67,3 +67,7 @@ iframe {
 #grad {
     background-image: linear-gradient(#B0DAFF, #CAEDFF, #B0DAFF);
 }
+
+iframe {
+    text-align: center;
+}
