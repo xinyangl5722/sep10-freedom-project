@@ -14,6 +14,16 @@ These are pretty much my takeaways for the expo.
 * Loud voice= Have a loud and enthusiastic voice so it looks like you are proud of your project and it gives the audience thinking how great your project is even if the presentation sucks.
 * Be prepared for questions= There are some questions that would be predicted so answer those questions yourselves before you’ve been asked. 
 
+## EDP
+I have currently passed through with **Communicating the results** which is had presented my results which is my website. I presented my website to my class, some judges in the expo, and a bunch of other people. 
+
+## Skills 
+One skill I have learned in **_communication_**. I have learned how to present my website clearly to others while having them understanding my project. I have learned to speak loudly and clearly, while also faking confidence and using some sort of non-serious jokes to make my presentation less boring and more bearable.  
+Another skill that I have enhanced is **_organization_**. I had organized each of my slides in chronological order and I made sure that each of my slides look pleasant and easy to read. I also made sure to have one to two tabs on my screen which is my website and my code during the expo and delete any other tabs that I had so I don't get lost on where my website went.
+
+## Summary
+Overall, I was very happy with what I had presented and I couldn't wait to present in the showcase that I was chosen to present my website in.
+
 [Previous](entry06.md) | [Next](entry08.md)
 
 [Home](../README.md)
