@@ -6,6 +6,9 @@ I am a student at [HSTAT](https://www.hstat.org/) in the [Software Engineering P
 For my project, I chose the topic of **Art and Animation**.   
 I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **Aframe** in order to help me make by website.
 
+## Content
+My blog shows my process of making my Freedom project about my specific topic which is **_Art and Animation_** and my blog shows the average process of making a website. I have inluded different steps for my website and also skills I have learned while making them.
+
 ## Links
 
 [Product](https://xinyangl5722.github.io/sep10-freedom-project)
