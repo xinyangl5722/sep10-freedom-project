@@ -4,21 +4,24 @@ by **X**
 ## Context
 I am a student at [HSTAT](https://www.hstat.org/) in the [Software Engineering Program](https://hstatsep.github.io/). The "Freedom Project" for SEP10 is a year-long project all about making a website that informs the viewer of the current and future innovations in the topic of my choosing.
 
-For my project, I chose the topic of **X**. 
+For my project, I chose the topic of **Art and Animation**. 
 
-I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **X** in order to help me make by website.
+I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **Aframe** in order to help me make by website.
 
 ## Links
 
-[Product]()
+[Product](https://xinyangl5722.github.io/sep10-freedom-project)
 
-[Presentation]()
+[Presentation]((https://docs.google.com/presentation/d/1cfgeX5PuMDlMStDAAmx4N3Nbm3sYAA457B3NO6VqR1o/edit#slide=id.p))
 
 ## Implications
 ##### PROS
-* 
+* infrastructure= Allows more creative designs for different buildings.
+* Big Systems= Big systems can use these art and animation for their own advantage and using their own creative skills for their projects and attracting audience.
+* Culture= Art and animation can also impact culture as well such as how art and animation has gone popular in countries and was able to influence their art and animation in other countries
 ##### CONS
-* 
+* Finance= Although art and animation is pretty popular and well liked, it doens't really help with the financial needs for individuals.
+* Jobs= Same thing. Even though art and animation is popular, the idea of getting a job that correlates with it is pretty difficult to find and also pretty challenging to get in.
 
 
 ## Blog
